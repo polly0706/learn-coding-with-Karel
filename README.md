@@ -1,7 +1,7 @@
 # learn-coding-with-Karel
 ###### To everyone interested:
 ###### This repository holds my programming projects done during 2021 Coronavirus pandemic
-## ---------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------------
 ## Project
 ###### week 1 ~ week 4 Karel
 ###### week 1--basic movement
